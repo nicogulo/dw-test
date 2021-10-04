@@ -18,7 +18,9 @@ clone this repo
   git clone https://github.com/nicogulo/dw-test.git
 ```
 
-and then install packages with command
+create `database` and import `perpustakaan.sql` into mysql/phpmyadmin
+
+and then install packages with command in the terminal
 
 ```bash
   npm install
